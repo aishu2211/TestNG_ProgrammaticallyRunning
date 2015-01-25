@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="44" started-at="2014-12-30T11:34:48Z" finished-at="2014-12-30T11:34:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="44" started-at="2014-12-30T11:34:48Z" finished-at="2014-12-30T11:34:48Z">
+      <class name="SuiteABC.TestC">
+        <test-method status="PASS" signature="testC()[pri:0, instance:SuiteABC.TestC@763d9750]" name="testC" duration-ms="1" started-at="2014-12-30T05:34:48Z" finished-at="2014-12-30T05:34:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testC -->
+      </class> <!-- SuiteABC.TestC -->
+      <class name="SuiteABC.TestB">
+        <test-method status="PASS" signature="testB()[pri:0, instance:SuiteABC.TestB@6979e8cb]" name="testB" duration-ms="2" started-at="2014-12-30T05:34:48Z" finished-at="2014-12-30T05:34:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testB -->
+      </class> <!-- SuiteABC.TestB -->
+      <class name="SuiteABC.TestA">
+        <test-method status="PASS" signature="testA()[pri:0, instance:SuiteABC.TestA@18e8568]" name="testA" duration-ms="1" started-at="2014-12-30T05:34:48Z" finished-at="2014-12-30T05:34:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testA -->
+      </class> <!-- SuiteABC.TestA -->
+      <class name="ProgrammaticallyRunning.MyClass">
+        <test-method status="PASS" signature="abc()[pri:0, instance:ProgrammaticallyRunning.MyClass@5fe5c6f]" name="abc" duration-ms="19" started-at="2014-12-30T05:34:48Z" finished-at="2014-12-30T05:34:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- abc -->
+      </class> <!-- ProgrammaticallyRunning.MyClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
